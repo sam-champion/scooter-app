@@ -1,0 +1,23 @@
+{
+  "name": "scooter-project",
+  "version": "1.0.0",
+  "description": "An electric scooter hire app created using UML, TDD, and OOP.",
+  "main": "classes/ScooterApp.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MultiverseLearningProducts/scooter-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MultiverseLearningProducts/scooter-project/issues"
+  },
+  "homepage": "https://github.com/MultiverseLearningProducts/scooter-project#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
